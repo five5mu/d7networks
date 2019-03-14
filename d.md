@@ -10,7 +10,7 @@
 > 1. 因众所周知的原因，我们的域名经常被墙。
 > 2. 这不会影响服务质量，只会给找不到路的朋友造成困扰。
 > 3. 上面表格会持续更新临时地址，防走丢请收藏本链接👇
-> 4. 请收藏：https://github.com/five5mu/fkwall/blob/f/f.md
+> 4. 请收藏：https://github.com/five5mu/d7networks/blob/d/d.md
 
 #### 💗永久域名：[fkwall.com](http://fkwall.com)（已被墙，需要开启全局代理访问。）
 
