@@ -12,7 +12,7 @@
 > 3. 上面表格会持续更新临时地址，防走丢请收藏本链接👇
 > 4. https://github.com/five5mu/d7networks/blob/d/d.md
 
-### 品牌
+### 子品牌
 > 墙外科技 | Secure Private Network
 
 > 佛跳墙 - 呐，做人呢，最重要的就是开心。
