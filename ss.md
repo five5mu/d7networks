@@ -1,6 +1,6 @@
 # 防走丢 D7 Networks
 
-#### 💗永久域名：[D7net.com](http://d7net.com)（已被墙，需要开启全局代理访问。）
+#### 💗永久域名：[FKwall.com](http://d7net.com)（已被墙，需要开启全局代理访问。）
 
 ### 说明
 
