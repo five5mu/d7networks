@@ -1,3 +1,3 @@
-防走丢，请移步:
+### 导航
 
-https://github.com/five5mu/d7networks/blob/ss/ss.md
+> 跳转：http://fkwall.github.io/
